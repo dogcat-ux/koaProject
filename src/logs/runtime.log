@@ -1,0 +1,74 @@
+[2022-01-16T10:29:05.221] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T10:29:12.366] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:29:39.477] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T10:29:45.749] [INFO] default - 100-findUserRes:[object SequelizeInstance:user]
+[2022-01-16T10:29:45.866] [ERROR] default - 100创建用户失败SequelizeUniqueConstraintError: Validation error
+[2022-01-16T10:29:48.625] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:29:48.629] [INFO] default - 100-findUserRes:[object SequelizeInstance:user]
+[2022-01-16T10:29:51.164] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:29:51.165] [ERROR] default - 100-查看用户是否存在出错{e}
+[2022-01-16T10:30:55.338] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:30:55.339] [ERROR] default - 100-查看用户是否存在出错{e}
+[2022-01-16T10:31:36.282] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T10:31:36.468] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:31:36.472] [ERROR] default - 100-查看用户是否存在出错{e}
+[2022-01-16T10:31:57.246] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T10:31:57.714] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:32:30.091] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:32:30.109] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T10:32:46.786] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:32:52.145] [INFO] default - 100-findUserRes:[object SequelizeInstance:user]
+[2022-01-16T10:51:21.642] [WARN] default - userFormatError[object Object]
+[2022-01-16T10:55:15.832] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T10:58:20.954] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T10:58:31.608] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:00:52.822] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:00:55.446] [WARN] default - userFormatError[object Object]
+[2022-01-16T11:01:32.710] [WARN] default - 10004该用户不存在
+[2022-01-16T11:01:47.714] [ERROR] default - 100用户登录失败ReferenceError: bcrypt is not defined
+[2022-01-16T11:01:49.194] [ERROR] default - 100用户登录失败ReferenceError: bcrypt is not defined
+[2022-01-16T11:02:48.719] [ERROR] default - 100用户登录失败ReferenceError: bcrypt is not defined
+[2022-01-16T11:03:21.156] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:03:21.710] [WARN] default - 100用户名或密码错误
+[2022-01-16T11:04:07.125] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:08:39.573] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:08:49.273] [WARN] default - userFormatError[object Object]
+[2022-01-16T11:12:40.601] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:13:38.926] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:13:44.783] [WARN] default - userFormatError[object Object]
+[2022-01-16T11:15:40.234] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:16:24.312] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:16:32.684] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:17:49.010] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T11:20:00.814] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:47:12.751] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:48:09.995] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:48:47.256] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:49:07.097] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:55:45.496] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:55:46.741] [WARN] default - userFormatError[object Object]
+[2022-01-16T12:56:25.730] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:57:30.483] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:59:03.184] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T12:59:43.900] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:00:31.287] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:01:15.675] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:01:16.369] [ERROR] default - 100用户登录失败Error: Illegal arguments: string, undefined
+[2022-01-16T13:01:35.777] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:01:35.779] [ERROR] default - 100用户登录失败Error: Illegal arguments: string, undefined
+[2022-01-16T13:02:54.964] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:02:55.432] [WARN] default - 100用户名或密码错误
+[2022-01-16T13:06:29.770] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:15:14.005] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:18:26.289] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:18:47.849] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:19:12.593] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:19:57.072] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:20:01.903] [ERROR] default - 用户登录失败:Error: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+[2022-01-16T13:20:36.710] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:20:48.237] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:21:46.885] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:22:06.788] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T13:22:31.228] [INFO] default - 连接数据库成功:undefined
+[2022-01-16T16:02:46.891] [ERROR] default - 连接数据库:SequelizeConnectionRefusedError: connect ECONNREFUSED 127.0.0.1:3306
+[2022-01-16T16:03:29.150] [INFO] default - 100-findUserRes:[object Object]
